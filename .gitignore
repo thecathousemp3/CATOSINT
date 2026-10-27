@@ -1,0 +1,13 @@
+/build/
+/build-*/
+/out/
+/frontend/node_modules/
+/frontend/dist/
+.vs/
+.vscode/
+CMakeUserPresets.json
+*.user
+*.suo
+*.log
+*.stdout.txt
+*.stderr.txt
